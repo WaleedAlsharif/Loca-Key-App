@@ -1,5 +1,5 @@
-# Loka-Key-App
-Luka Key is an online store that sells and maintains all types of desktop computers, laptops, and software
+# Loca Key App
+Loca Key is an online store that sells and maintains all types of desktop computers, laptops, and software
 
 	The most important tasks performed in the application
 
